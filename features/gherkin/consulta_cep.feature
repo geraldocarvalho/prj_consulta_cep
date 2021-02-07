@@ -12,10 +12,10 @@ Funcionalidade: Validar a api de consulta de cep
     Entao validar o retorno do endpoint para o cenário <tipo> e <zona>
 
     Exemplos:
-      | tipo       | zona           |
-      | "positivo" | "zona_sul"     |
-      | "positivo" | "zona_norte"   |
-      | "positivo" | "zona_leste"   |
-      | "positivo" | "zona_oeste"   |
-      | "positivo" | "centro"       |
-      | "negativo" | ""             |
+      | tipo       | zona         |
+      | "positivo" | "zona_sul"   |
+      | "positivo" | "zona_norte" |
+      | "positivo" | "zona_leste" |
+      | "positivo" | "zona_oeste" |
+      | "positivo" | "centro"     |
+      | "negativo" | ""           |
