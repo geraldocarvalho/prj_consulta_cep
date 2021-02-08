@@ -1,0 +1,56 @@
+ceps_sp:
+  zona_sul:
+    cep: '04444-000'
+    logradouro: "Avenida Miguel Yunes"
+    complemento: ""
+    bairro: "Usina Piratininga"
+    localidade: "São Paulo"
+    uf: "SP"
+    ibge: "3550308"
+    gia: "1004"
+    ddd: "11"
+    siafi: "7107"
+  zona_norte:
+    cep: '02046-094'
+    logradouro: "Travessa Aurélio Bonelli"
+    complemento: ""
+    bairro: "Jardim São Paulo(Zona Norte)"
+    localidade: "São Paulo"
+    uf: "SP"
+    ibge: "3550308"
+    gia: "1004"
+    ddd: "11"
+    siafi: "7107"
+  zona_leste:
+    cep: '03572-307'
+    logradouro: "Viela Leste"
+    complemento: ""
+    bairro: "Jardim Santa Terezinha (Zona Leste)"
+    localidade: "São Paulo"
+    uf: "SP"
+    ibge: "3550308"
+    gia: "1004"
+    ddd: "11"
+    siafi: "7107"
+  zona_oeste:
+    cep: '05584-010'
+    logradouro: "Rua Pedro Alexandrino Soares"
+    complemento: ""
+    bairro: "Jardim Boa Vista (Zona Oeste)"
+    localidade: "São Paulo"
+    uf: "SP"
+    ibge: "3550308"
+    gia: "1004"
+    ddd: "11"
+    siafi: "7107"
+  centro:
+    cep: '01010-010'
+    logradouro: "Praça Antônio Prado"
+    complemento: ""
+    bairro: "Centro"
+    localidade: "São Paulo"
+    uf: "SP"
+    ibge: "3550308"
+    gia: "1004"
+    ddd: "11"
+    siafi: "7107"
